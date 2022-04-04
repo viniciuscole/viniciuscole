@@ -1,12 +1,9 @@
 <div>  
   <a href="https://github.com/viniciuscole">
-    <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=viniciuscole&include_all_commits=true&count_private=true&show_icons=true&theme=panda" />
-    <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscole&layout=compact&theme=panda" />
-  </a>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=viniciuscole&include_all_commits=true&count_private=true&show_icons=true&theme=panda" />
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscole&layout=compact&theme=panda" />
 </div>
-
-
-<div style="display:inline_block">
+<div style="display:inline_block"><br>
   <img align="center" alt="C" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Js" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,10 +12,10 @@
   <img align="center" alt="React" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Git" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Arduino" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-</div
+</div>
   
   ##
-
+  
 <div>
   <a href = "https://www.instagram.com/viniciusscole/" target="_blank">
     <img align="center" alt="Instagram" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
