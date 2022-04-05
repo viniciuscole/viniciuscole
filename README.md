@@ -1,7 +1,7 @@
 <div>  
   <a href="https://github.com/viniciuscole">
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=viniciuscole&include_all_commits=true&count_private=true&show_icons=true&thme=panda" />
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscole&layout=compact&thme=panda" />
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=viniciuscole&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscole&layout=compact" />
     
 </div>
 <div style="display:inline_block"><br>
