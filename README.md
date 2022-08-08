@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Vinicius</h1>
+<h1 align="center">Hi 👋, I'm Vinicius</h1>
 <h3 align="center">A passionate student from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuscole&label=Profile%20views&color=bc14d2&style=flat-square" alt="viniciuscole" /> </p>
