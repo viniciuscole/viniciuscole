@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuscole&label=Profile%20views&color=0e75b6&style=flat" alt="viniciuscole" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciuscole" alt="viniciuscole" /></a> </p>
+
 <div>  
   <a href="https://github.com/viniciuscole">
   <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=viniciuscole&theme=panda&include_all_commits=true&count_private=true&show_icons=true" />
@@ -17,13 +21,8 @@
   
   ##
   
-<div>
-  <a href = "https://www.instagram.com/viniciusscole/" target="_blank">
-    <img align="center" alt="Instagram" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href = "https://www.linkedin.com/in/vinicius-cole-de-amorim-419373211/" target="_blank">
-    <img align="center" alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-   ![Snake animation](https://github.com/viniciuscole/viniciuscole/blob/output/github-contribution-grid-snake.svg)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuscole&label=Profile%20views&color=0e75b6&style=flat" alt="viniciuscole" /> </p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciuscole&" alt="viniciuscole" /></p>
+
 </div>
