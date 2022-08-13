@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciuscole" alt="viniciuscole" /></a> </p>
 
-- 🔭 I’m currently working on **A flutter app**
+- 🔭 I’m currently working on **a flutter app**
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
