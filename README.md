@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a website using **React**
 
-- 🌱 I'm 19 yo!
+- 🌱 I'm 20 yo!
 
 - 📚 Coursing Computing Engineering at [UFES](https://www.ufes.br/)
 
