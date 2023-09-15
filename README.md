@@ -4,14 +4,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciuscole" alt="viniciuscole" /></a> </p>
 
-- 🔭 I’m currently working on a website using **React**
 
 - 🌱 I'm 20 yo!
 
 - 📚 Coursing Computing Engineering at [UFES](https://www.ufes.br/)
 
-- 🖱️ Member of the UFES Eng Comp [PET](https://pet.inf.ufes.br/) team!
+- 🖱️ Intern at [V360](https://virtual360.io/)
 
+- 🤖 Automation with Python and Playwright
+  
 - 📫 Reach me at **viniamorim87@hotmail.com**, or
 
 <h3 align="left">Connect with me:</h3>
