@@ -2,7 +2,7 @@
 
 - 🌱 I'm 20 yo!
 
-- 📚 Coursing Computing Engineering at [UFES](https://www.ufes.br/)
+- 📚 Computing Engineering at [UFES](https://www.ufes.br/)
 
 - 🖱️ Intern at [V360](https://virtual360.io/)
 
