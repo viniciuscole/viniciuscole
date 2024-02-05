@@ -6,7 +6,9 @@
 
 - 🖱️ Intern at [V360](https://virtual360.io/)
 
-- 🤖 Automation with Python and Playwright
+- 👨‍💻 Fullstack developer
+
+- 🚂 Ruby on Rails!
   
 - 📫 Reach me at **viniamorim87@hotmail.com**, or
 
