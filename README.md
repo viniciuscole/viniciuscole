@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 
-- 🌱 I'm 21 yo!
+- 🌱 I'm 22 yo!
 
 - 📚 Computing Engineering at [UFES](https://www.ufes.br/)
 
-- 🖱️ Intern at [V360](https://virtual360.io/)
+- 🖱️ SDE at [V360](https://virtual360.io/)
 
 - 👨‍💻 Fullstack developer
 
