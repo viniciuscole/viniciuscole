@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 
-- 🌱 I'm 22 yo!
+- 🌱 I'm 23 yo!
 
 - 📚 Computing Engineering at [UFES](https://www.ufes.br/)
 
